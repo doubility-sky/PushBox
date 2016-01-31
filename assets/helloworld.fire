@@ -292,7 +292,7 @@
     "__type__": "cc.Node",
     "_name": "Controller",
     "_objFlags": 0,
-    "_opacity": 255,
+    "_opacity": 100,
     "_color": {
       "__type__": "cc.Color",
       "r": 255,
@@ -334,8 +334,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 380,
-      "y": -220
+      "x": 330,
+      "y": -170
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -376,8 +376,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 48,
-      "height": 24
+      "width": 96,
+      "height": 48
     },
     "_children": [],
     "_rotationX": 0,
@@ -386,7 +386,7 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 48,
+      "x": 60,
       "y": 0
     },
     "_skewX": 0,
@@ -520,8 +520,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 48,
-      "height": 24
+      "width": 96,
+      "height": 48
     },
     "_children": [],
     "_rotationX": 0,
@@ -530,7 +530,7 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -48,
+      "x": -60,
       "y": 0
     },
     "_skewX": 0,
@@ -664,8 +664,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 24,
-      "height": 48
+      "width": 48,
+      "height": 96
     },
     "_children": [],
     "_rotationX": 0,
@@ -675,7 +675,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": 48
+      "y": 60
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -808,8 +808,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 24,
-      "height": 48
+      "width": 48,
+      "height": 96
     },
     "_children": [],
     "_rotationX": 0,
@@ -819,7 +819,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -48
+      "y": -60
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -939,9 +939,9 @@
     "_enabled": true,
     "_alignFlags": 36,
     "_left": 0,
-    "_right": 100,
+    "_right": 150,
     "_top": 0,
-    "_bottom": 100,
+    "_bottom": 150,
     "_isAbsLeft": true,
     "_isAbsRight": true,
     "_isAbsTop": true,

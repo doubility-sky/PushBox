@@ -204,10 +204,7 @@
     "_N$string": "玩的 6 啊！\n再来？",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -215,7 +212,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "bffd5kikg9MNoYSu5E/zXrP"
+    "fileId": "00e52lP/+5FOYT3rfg1ZjE4"
   },
   {
     "__type__": "cc.Node",
@@ -348,10 +345,7 @@
     "_N$string": "Reset",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -359,7 +353,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "48d5alYGjJGk7qkuO3NZq6d"
+    "fileId": "01acbLTOVpEpKhydZ6Nn5pB"
   },
   {
     "__type__": "cc.Sprite",
@@ -795,10 +789,7 @@
     "_N$string": "玩的 6 啊！\n再来？",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -941,10 +932,7 @@
     "_N$string": "Reset",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -1180,10 +1168,7 @@
     "_N$string": "Next",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -2129,7 +2114,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "01a98OqMFVOT4ZQTf2EYuv6"
+    "fileId": "81477jPkR1FBY/YOr+UbU0I"
   },
   {
     "__type__": "cc.Node",
@@ -2262,10 +2247,7 @@
     "_N$string": "Next",
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
-    "_N$overflow": 0,
-    "_N$file": {
-      "__uuid__": "f02c944e-788a-4c7a-9164-86d3951d53a9"
-    }
+    "_N$overflow": 0
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -2273,7 +2255,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "0200dEe01JOm4yofnwkEMwc"
+    "fileId": "9fe9fy5L71J6JCMyGFI3fLz"
   },
   {
     "__type__": "cc.Sprite",
@@ -2352,7 +2334,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "25d72qWKkhNLZeyJnykWNPI"
+    "fileId": "5e01cR3j8lEIKwcK5b/2VpR"
   },
   {
     "__type__": "cc.Sprite",
@@ -2375,7 +2357,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "ab1b1hCPs9BMYnwPZuY+L5v"
+    "fileId": "59858EcnOhHw7RzWZGLAxoA"
   },
   {
     "__type__": "fa118V7biFBeoKgCUDt7Z8b",
@@ -2428,6 +2410,6 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "907b0t4qPdC2ZtZYr5HfATW"
+    "fileId": "4ac41eLUj1IKJy1lPBTRZ/i"
   }
 ]

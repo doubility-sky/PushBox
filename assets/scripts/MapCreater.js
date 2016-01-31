@@ -275,7 +275,7 @@ cc.Class({
         if (!node) {
             return false;
         }
-        var action = cc.sequence(cc.moveTo(0.5, this.getPostion(dstPos)),
+        var action = cc.sequence(cc.moveTo(0.2, this.getPostion(dstPos)),
             cc.callFunc(function () {
                 this.moving = false;
             }.bind(this)));
