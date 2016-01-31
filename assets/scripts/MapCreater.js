@@ -225,11 +225,11 @@ cc.Class({
     },
     
     onUp: function() {
-        this.checkMove(this.playerLeft, cc.Vec2.UP.mulSelf(-1));
+        this.checkMove(this.playerUp, cc.Vec2.UP.mulSelf(-1));
     },
     
     onDown: function() {
-        this.checkMove(this.playerRight, cc.Vec2.UP);
+        this.checkMove(this.playerDown, cc.Vec2.UP);
     },
     
     onLeft: function() {
