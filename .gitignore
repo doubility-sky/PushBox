@@ -1,4 +1,4 @@
-./library/*
-./local/*
-./temp/*
-./build/*
+/library/*
+/local/*
+/temp/*
+/build/*
